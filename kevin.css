@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, sans-serif;
+    /* line-height: 1.6; */
+    background-color: rgb(209, 177, 240);
+    background-image: url(UNI.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+footer a {
+    text-decoration: none;
+}
